@@ -72,4 +72,4 @@ In this project, we could run Navigation.ipynb within the env, train the model a
 
 ## Result
 
-![image](https://user-images.githubusercontent.com/109795677/188405300-c6f23ae7-21cc-48b8-9fb9-976e4d2027bf.png)
+![image](https://user-images.githubusercontent.com/109795677/189486152-f08aa959-848b-420f-8f15-09a1784bbffc.png)
