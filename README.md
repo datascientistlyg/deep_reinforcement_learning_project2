@@ -70,7 +70,7 @@ actor.pth: weights of the actor model
 critic.pth: weights of the critic model
 
 ## Instructions
-In this project, we could run Navigation.ipynb within the env, train the model and get the results.
+In this project, we could run Continuous_Control.ipynb within the env, train the model and get the results.
 
 ## Result
 
