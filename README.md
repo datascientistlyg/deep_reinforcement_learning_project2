@@ -59,13 +59,15 @@ scipy
 ipykernel
 
 ## Code Architecture
-Navigation.ipynb: jupyter notebook based solution
+Continuous_Control.ipynb: jupyter notebook based solution
 
 ddpg_agent.py: DQN agent code
 
 model.py: Q-Network based model
 
-checkpoint.pth: weights of the DQN model
+actor.pth: weights of the actor model
+
+critic.pth: weights of the critic model
 
 ## Instructions
 In this project, we could run Navigation.ipynb within the env, train the model and get the results.
