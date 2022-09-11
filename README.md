@@ -61,9 +61,9 @@ ipykernel
 ## Code Architecture
 Continuous_Control.ipynb: jupyter notebook based solution
 
-ddpg_agent.py: DQN agent code
+ddpg_agent.py: DDPG agent code
 
-model.py: Q-Network based model
+model.py: Actor/Critic model
 
 actor.pth: weights of the actor model
 
