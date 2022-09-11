@@ -74,4 +74,4 @@ In this project, we could run Continuous_Control.ipynb within the env, train the
 
 ## Result
 
-![image](https://user-images.githubusercontent.com/109795677/189486152-f08aa959-848b-420f-8f15-09a1784bbffc.png)
+![image](https://user-images.githubusercontent.com/109795677/189513221-b928f03f-2354-427e-b278-85a32fd94e50.png)
